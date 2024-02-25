@@ -1,5 +1,8 @@
 # Disk-space-manager
 See drive total size, used space in gb and %, size to 80% full
+![image](https://github.com/Ananazzo/Disk-space-manager/assets/48922919/d590c28f-e16c-43d1-aea3-6744dd6f0685)
 
+
+# dependencies
 psutil
-ttkthemes
+
