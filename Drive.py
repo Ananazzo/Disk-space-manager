@@ -15,5 +15,5 @@ def get_disk_stats():
 def print_disk_stats():
     disk_stats = get_disk_stats()
     for disk, total_gb, used_gb, used_percentage, gb_to_80_percent_full in disk_stats:
-        print(f"Disk: {disk}, Total: {total_gb:.2f} GB, Used: {used_gb:.2f} GB ({used_percentage:.2f}%), To 80% full: {gb_to_80_percent_full:.2f} GB")
+        print(f"Disk: {disk}, Total: {total_gb:.2f} GiB, Used: {used_gb:.2f} GiB ({used_percentage:.2f}%), To 80% full: {gb_to_80_percent_full:.2f} GiB")
 print_disk_stats()
