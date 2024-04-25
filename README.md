@@ -1,4 +1,4 @@
-# Disk-space-manager
+# Disk-space-util
 See drive total size, used space in GiB and % and GiB 80% full
 
 # Example image
